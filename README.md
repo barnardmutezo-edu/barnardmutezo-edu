@@ -14,11 +14,11 @@
 </div>
 
 <hr/>
-Below is a list of all my previous exams and work-requrements.
+<h3> Below is a list my previous exams and work-requrements.</h3>
 <hr/>
 
 <h3>Kristiania University College - Intelligent systems 2020 - 2023 <h3/>
-<div style="font-size:2px ;">
+<div>
     <p>First Semester </p>
      <ul>
         <li><a href=""> Databaser (DB1102), Exam </a></li>
@@ -59,6 +59,10 @@ Below is a list of all my previous exams and work-requrements.
         <li><a href=""> Android Programmering (PGR208), Exam </a></li>
         <li><a href=""> C++ Programmering (PG4401), Exam </a></li>
         <li><a href=""> Embedded Systems (PG5501), Exam </a></li>
+        <ul>
+            <li><a href=""> Embedded Systems (PG5501), Work Requirement 1 </a></li>
+            <li><a href=""> Embedded Systems (PG5501), Work Requirement 2 </a></li>
+        </ul>
         <li><a href=""> Smidig Prosjekt (PRO201), Exam </a></li>
      </ul>
-</div>     
+</div>       
