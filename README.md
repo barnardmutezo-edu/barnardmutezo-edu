@@ -1,7 +1,7 @@
 # Barnard Mutezo - Educational
 
 ### Hi there 👋🏾
-
+### Get in touch! 
 <div style="display: inline">
     <a href="https://github.com/benmutezo" target="_blank">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
