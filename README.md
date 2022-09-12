@@ -63,6 +63,6 @@
             <li><a href=""> Embedded Systems (PG5501), Work Requirement 1 </a></li>
             <li><a href=""> Embedded Systems (PG5501), Work Requirement 2 </a></li>
         </ul>
-        <li><a href=""> Smidig Prosjekt (PRO201), Exam </a></li>
+        <li><a href="https://github.com/mahoote/pro201-exam"> Smidig Prosjekt (PRO201), Exam </a></li>
      </ul>
 </div>       
