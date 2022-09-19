@@ -24,7 +24,7 @@
         <li><a href="https://github.com/barnardmutezo-edu/Cpp.git"> C++ programmering, Exam (C++)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/C-for-Linux"> C for Linux, Exam (C & Ubuntu Linux))</a></li>
         <li><a href="https://github.com/mahoote/pro201-exam.git"> Smidigprosjekt, Exam (C# & Unity)</a></li>
-        <li><a href=""> Programvaretesting, Exam (Java)</a></li>
+        <li><a href="https://github.com/barnardmutezo-edu/Programvaretesting"> Programvaretesting, Exam (Java)</a></li>
         <li><a href=""> Intro Til Programmering, Exam & work requirement  (JavaScript)</a></li>
      <ul>
 </div>
