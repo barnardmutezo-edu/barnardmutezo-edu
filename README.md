@@ -14,7 +14,7 @@
 </div>
 
 <hr/>
-<h3> Below is a list of some previous exams and work-requrements.</h3>
+<h3> Below is a list of some larger exams and work-requrements.</h3>
 <hr/>
 
 <h3>Kristiania University College - Intelligent systems 2020 - 2023 <h3/>
