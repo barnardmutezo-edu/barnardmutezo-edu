@@ -25,9 +25,6 @@
         <li><a href="https://github.com/barnardmutezo-edu/Cpp.git"> C++ programmering, Exam (C++)</a></li>
         <li><a href=""> C for Linux, Exam (C & Ubuntu Linux))</a></li>
         <li><a href=""> Programvaretesting, Exam (Java)</a></li>
-        <li><a href=""> Intro Til Programmering (PGR102), Exam (JavaScript)</a></li>
-        <ul>
-            <li><a href=""> Intro Til Programmering (PGR102), Work Requirement (JavaScript)</a></li>
-        </ul>
+        <li><a href=""> Intro Til Programmering, Exam & work requirement  (JavaScript)</a></li>
      <ul>
 </div>
