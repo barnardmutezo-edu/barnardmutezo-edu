@@ -24,7 +24,7 @@
         <li><a href="https://github.com/barnardmutezo-edu/Cpp.git"> C++ programmering, Exam (C++)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/C-for-Linux"> C for Linux, Exam (C & Linux))</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Smidig-prosjekt"> Smidigprosjekt, Exam (C# & Unity)</a></li>
-        <li><a href="https://github.com/barnardmutezo-edu/Programvaretesting"> Android programmering, Exam (Kotln)</a></li>
+        <li><a href="https://github.com/barnardmutezo-edu/Android-programming"> Android programmering, Exam (Java/Kotln)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Programvaretesting"> Programvaretesting, Exam (Java)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Intro-Til-Programmering"> Intro Til Programmering, Exam & work requirement  (JavaScript)</a></li>
      <ul>
