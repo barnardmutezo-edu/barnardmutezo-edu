@@ -20,10 +20,10 @@
 <h3>Kristiania University College - Intelligent systems 2020 - 2023 <h3/>
 <div>
      <ul>
-        <li><a href="https://github.com/mahoote/pro201-exam.git"> Smidigprosjekt, Exam (C# & Unity)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Embedded-systems.git"> Embedded systems, Exam (ESP32 NodeMCU/C++)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Cpp.git"> C++ programmering, Exam (C++)</a></li>
         <li><a href=""> C for Linux, Exam (C & Ubuntu Linux))</a></li>
+        <li><a href="https://github.com/mahoote/pro201-exam.git"> Smidigprosjekt, Exam (C# & Unity)</a></li>
         <li><a href=""> Programvaretesting, Exam (Java)</a></li>
         <li><a href=""> Intro Til Programmering, Exam & work requirement  (JavaScript)</a></li>
      <ul>
