@@ -26,6 +26,7 @@
         <li><a href="https://github.com/barnardmutezo-edu/C-for-Linux"> C for Linux, Exam (C & Linux))</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Smidig-prosjekt"> Smidigprosjekt, Exam (C# & Unity)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Data-Collection-And-Analysis"> Data Collection And Analysis, Exam (Python and libraries)</a></li>
+        <li><a href="https://github.com/barnardmutezo-edu/Object-oriented-programming"> OOP, Exam (Java)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Android-programming"> Android programmering, Exam (Java/Kotln)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Programvaretesting"> Programvaretesting, Exam (Java)</a></li>
         <li><a href="https://github.com/barnardmutezo-edu/Intro-Til-Programmering"> Intro Til Programmering, Exam & work requirement  (JavaScript)</a></li>
